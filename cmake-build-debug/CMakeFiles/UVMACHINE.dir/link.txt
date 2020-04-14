@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/UVMACHINE.dir/main.c.o  -o UVMACHINE 
