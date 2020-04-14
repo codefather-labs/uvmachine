@@ -1,7 +1,3 @@
-/*
-    A more advanced version of the VM
-*/
-
 #include <stdio.h>
 #include <stdbool.h>
 #include <stdlib.h>
